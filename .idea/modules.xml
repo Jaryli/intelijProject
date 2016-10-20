@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cc-course/cc-course.iml" filepath="$PROJECT_DIR$/cc-course/cc-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-web/cc-web.iml" filepath="$PROJECT_DIR$/cc-web/cc-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ccwebapp.iml" filepath="$PROJECT_DIR$/ccwebapp.iml" />
+    </modules>
+  </component>
+</project>
